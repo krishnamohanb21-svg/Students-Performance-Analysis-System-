@@ -1,0 +1,19 @@
+Student ID,Student Name,Department,Python,Java,Linux,AI,SQL,Attendance,Total,Average,Percentage,Grade,Status,Failed Subjects,Rank
+1017,Lal,Information Technology,94,69,71,96,91,100,421,84.2,84.2,A,Pass,-,1
+1007,Chawla,Computer Science,97,92,82,72,75,98,418,83.6,83.6,A,Pass,-,2
+1013,Karthi,Computer Science,99,76,48,60,98,98,381,76.2,76.2,B,Pass,-,3
+1015,Kala,AI and Data Science,44,66,90,84,93,98,377,75.4,75.4,B,Pass,-,4
+1006,Chandran,AI and Data Science,77,47,90,54,83,98,351,70.2,70.2,B,Pass,-,5
+1008,Dora,Information Technology,93,42,86,51,67,98,339,67.8,67.8,C,Pass,-,6
+1014,Kandan,Information Technology,64,92,85,37,61,96,339,67.8,67.8,C,Fail,AI,6
+1004,Bala,Computer Science,61,80,61,78,51,98,331,66.2,66.2,C,Pass,-,8
+1011,Gopal,Information Technology,55,48,77,37,96,99,313,62.6,62.6,C,Fail,AI,9
+1002,Abhay,Information Technology,37,60,78,71,67,98,313,62.6,62.6,C,Fail,Python,9
+1016,Kamal,Computer Science,77,75,63,39,52,100,306,61.2,61.2,C,Fail,AI,11
+1005,Bhati,Information Technology,71,59,65,51,59,98,305,61.0,61.0,C,Pass,-,12
+1018,Lalli,AI and Data Science,47,72,42,84,60,100,305,61.0,61.0,C,Pass,-,12
+1012,JaiKanth,AI and Data Science,48,60,54,84,52,94,298,59.6,59.6,D,Pass,-,14
+1010,Gerage,Computer Science,58,36,88,41,61,96,284,56.8,56.8,D,Fail,Java,15
+1009,Francies,AI and Data Science,39,90,65,35,46,100,275,55.0,55.0,D,Fail,"Python,AI",16
+1001,Abhi,Computer Science,41,53,33,95,45,97,267,53.4,53.4,D,Fail,Linux,17
+1003,Bhaskar,AI and Data Science,34,65,72,57,38,98,266,53.2,53.2,D,Fail,"Python,SQL",18
